@@ -1,1 +1,1 @@
-# Exemplo da utilizaç
+# Exemplo da utilização do Kafka
